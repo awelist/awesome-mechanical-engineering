@@ -30,6 +30,7 @@
 - **[What is Mechanical Engineering?](https://en.wikipedia.org/wiki/Mechanical_engineering)** - An overview of the field and its subdisciplines.
 - **[ASME (American Society of Mechanical Engineers)](https://www.asme.org/)** - Resources, standards, and journals for mechanical engineers.
 - **[Engineering Toolbox](https://www.engineeringtoolbox.com/)** - Handy tools and references for mechanical engineers.
+- **[Engineering Reference Tables](https://github.com/rkingers776-boop/engineering-reference-tables)** - Machine-readable CSV tables for drill sizes, sheet metal gauge, AWG wire and ASME pipe schedules, with the rounding convention stated in every column.
 
 ## CAD (Computer-Aided Design)
 
