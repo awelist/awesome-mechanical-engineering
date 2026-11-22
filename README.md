@@ -38,6 +38,7 @@
 - **[Fusion 360](https://www.autodesk.com/products/fusion-360/overview)** - A cloud-based CAD/CAM/CAE tool for collaborative design.
 - **[Creo](https://www.ptc.com/en/products/creo)** - A comprehensive CAD solution for parametric modeling.
 - **[Onshape](https://www.onshape.com/)** - A cloud-native CAD platform for collaborative design.
+- **[SolidCraft CAD](https://solidcraftcad.com)** - A browser-based CAD tool for quick parametric 3D modeling, no install required.
 
 ## Simulation and Analysis
 
