@@ -87,6 +87,7 @@
 - **[ParaView](https://www.paraview.org/)** - Open-source data analysis and visualization software.
 - **[Calculix](http://www.calculix.de/)** - An open-source FEA software for structural analysis.
 - **[KiCAD](https://kicad.org/)** - An open-source tool for designing electronic circuits in mechatronics.
+- **[mesh2cad](https://github.com/emirmrkaljevic/mesh2cad)** - An open-source tool that converts STL meshes of simple mechanical parts into STEP and editable parametric CadQuery, OpenSCAD, and FreeCAD scripts.
 
 ## Educational Resources
 
